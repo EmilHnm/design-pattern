@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Hoangm\\Pattern\\": "src/"
+        }
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^6.2"
+    }
+}
